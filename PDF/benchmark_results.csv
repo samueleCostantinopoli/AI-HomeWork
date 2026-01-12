@@ -1,0 +1,16 @@
+N,Shuffle_Steps,Run_ID,A*_Status,A*_Time,A*_Nodes,A*_Len,Planner_Status,Planner_Time,Planner_Nodes,Planner_Len
+4,30,1,success,0.0011,34,14,success,0.028702,19,14
+4,30,2,success,0.0010,32,14,success,0.017784,15,14
+4,30,3,success,0.0009,36,14,success,0.019557,16,14
+4,40,1,success,0.0010,30,16,success,0.019157,17,16
+4,40,2,success,0.0033,104,16,success,0.033793,41,16
+4,40,3,success,0.0006,16,10,success,0.015801,11,10
+4,50,1,success,0.0009,27,14,success,0.018738,16,14
+4,50,2,success,0.0019,70,14,success,0.027469,35,14
+4,50,3,success,0.0024,69,16,success,0.020814,20,16
+4,60,1,success,0.0026,106,16,success,0.030469,36,16
+4,60,2,success,0.0013,54,16,success,0.024304,27,16
+4,60,3,success,0.0072,266,20,success,0.078329,116,20
+5,20,1,success,0.0016,36,12,success,0.042394,18,12
+5,20,2,success,0.0004,11,8,success,0.032542,9,8
+5,20,3,success,0.0008,12,10,success,0.036264,11,10
